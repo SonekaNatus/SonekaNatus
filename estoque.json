@@ -1,0 +1,17 @@
+{
+  "produtos": [],
+  "historico": [
+    {
+      "nomeProduto": "batata",
+      "quantidade": 45,
+      "tipo": "ADICIONADO",
+      "dataHora": "2025-09-03T10:37:47.324347700"
+    },
+    {
+      "nomeProduto": "batata",
+      "quantidade": 45,
+      "tipo": "REMOVIDO",
+      "dataHora": "2025-09-03T10:45:57.457446"
+    }
+  ]
+}
