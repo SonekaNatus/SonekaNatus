@@ -10,21 +10,27 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<dividir estilo="exibir: bloco_inline"><br>
-  <imagem alinhar="centro" alt="HTML" alta="40" largura="50" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <imagem alinhar="centro" alt="CSS" alta="40" largura="50" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <imagem alinhar="centro" alt="JS" alta="40" largura="50" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <imagem alinhar="centro" alt="TS" alta="40" largura="50" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</dividir>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+### ⚙️ Outros conhecimentos
+
+* 🔗 APIs REST
+* 🌱 Spring Boot
+* 🤖 Automação com n8n
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<dividir>
-  <imagem alta="160em" fonte="https://github-readme-stats.vercel.app/api?username=SonekaNatus&maisrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro"/>
-  <imagem alta="160em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=SonekaNatus&layout=compacto&contagem_langs=7&tema=tokyonight"/>
-</dividir>
+<img src="https://github-readme-stats.vercel.app/api?username=SonekaNatus&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonekaNatus&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -35,7 +41,7 @@
 
 ---
 
-## 🔥 Projetos em desestaque
+## 🔥 Projetos em destaque
 
 * 🏢 Site Mega Pam Planejados
 * 💰 Calculadora de Financiamento (React + TypeScript)
