@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=480&lines=Estudante+de+ADS+%7C+Senac+SP;Full+Stack+%7C+Java+%2B+React+%2B+TypeScript;Sempre+aprendendo+e+construindo+coisas+novas)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=SonekaNatus&color=1D9E75&style=flat-square&label=Visitas+ao+perfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauã-victor-125a912aa)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511979722730)
 
 </div>
@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia desde cedo. Curso Análise e Desenvolvimento de Sistemas pela Anhanguera e me dedico a construir soluções web completas — do backend robusto com Java e Spring Boot ao frontend moderno com React e TypeScript.
+Desenvolvedor Full Stack apaixonado por tecnologia desde cedo. Curso Análise e Desenvolvimento de Sistemas pela Universidade Senac SP e me dedico a construir soluções web completas — do backend robusto com Java e Spring Boot ao frontend moderno com React e TypeScript.
 
 Atualmente em busca de **oportunidades de estágio ou trabalho** onde eu possa contribuir, aprender e evoluir junto com a equipe.
 
@@ -97,7 +97,7 @@ Atualmente em busca de **oportunidades de estágio ou trabalho** onde eu possa c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kauã-victor-125a912aa)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5511979722730)
 [![Instagram](https://img.shields.io/badge/Instagram-@kauavictor__7xz-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/kauavictor_7xz)
 
