@@ -55,6 +55,13 @@ Atualmente em busca de **oportunidades de estágio ou trabalho** onde eu possa c
 
 ## Projetos em destaque
 
+### 🌐 [Portfólio Pessoal](https://github.com/SonekaNatus/meu-portfolio)
+> Meu site de portfólio profissional apresentando projetos, habilidades e formas de contato, com foco em design moderno e performance.
+
+`React` `TypeScript` `Vite`
+
+---
+
 ### [🍬 Doce Encanto Atelier](https://github.com/SonekaNatus/doce-encanto-atelier)
 > Sistema web completo para gestão de doceria — catálogo de produtos, pedidos e painel administrativo.
 
@@ -73,6 +80,13 @@ Atualmente em busca de **oportunidades de estágio ou trabalho** onde eu possa c
 > Landing page institucional com formulário de contato integrado ao WhatsApp para empresa de móveis planejados.
 
 `HTML` `CSS` `JavaScript`
+
+---
+
+### 🕷️ [SpiderVerse React](https://github.com/SonekaNatus/spiderverse-site)
+> Aplicação front-end em React explorando o universo do Homem-Aranha, com listagem de filmes, HQs e interface moderna com animações.
+
+`React` `TypeScript` `Framer Motion`
 
 ---
 
